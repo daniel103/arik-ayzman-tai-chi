@@ -160,7 +160,7 @@ position: absolute;
     color: var(--text-color);
 }
 #join__image {
-    margin-top: -40px;
+    margin-top: -161px;
 }
 
 .join__image {
@@ -850,7 +850,6 @@ input {
     .section2 {
 height: 454px !important;
 left: 11px;
-background-position: center !important;
     }
     .span-about {
         margin-top: 147px;
