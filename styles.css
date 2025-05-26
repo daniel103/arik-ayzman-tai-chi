@@ -199,13 +199,15 @@ background-size: cover;
 }
 
 .span-about {
-    margin-top: 400px;
+    margin-left: 94px;
+    margin-top: 460px;
     color: var(--text-color);
 }
 
 .btn-about {
     width: 443px;
     height: 93px;
+    margin-left: 83px;
     cursor: pointer;
     margin-top: 100px;
     font-size: 25px;
@@ -614,11 +616,13 @@ height: 1750px;
         height: 700px;
     }
     .span-about {
-        margin-top: 260px;
+        margin-left: 94px;
+        margin-top: 308px;
         color: var(--text-color);
         font-size: 20px;
     }
     .btn-about {
+        margin-left: 83px;
         width: 281px;
         height: 62.984127044677734px;
         top: 258.71px;
@@ -848,19 +852,23 @@ input {
         margin-left: 16px;
     }
     .section2 {
+        margin-left: -130px;
 height: 454px !important;
 left: 11px;
     }
     .span-about {
-        margin-top: 147px;
+        margin-left: 28%;
+        margin-top: 170px;
         font-size: 20px;
         color: var(--text-color2);
     }
     .btn-about {
         width: 300px;
+        margin-left: 28.2%;
         height: 62px;
-        margin-top: 38px;
+        margin-top: 30px;
         font-size: 16px;
+        color: var(--text-color2) !important;
     }
     .section3-h1 {
         font-size: 30px;
