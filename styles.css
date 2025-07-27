@@ -25,6 +25,15 @@ body {
     --main-color2: #F4F4F9;
 }
 
+@media (min-width: 1600px) {
+    .logo-header {
+        left: 1500px !important;
+    }
+    #header-img {
+        margin-left: 60px !important;
+    }
+    }
+
 .header {
     position: fixed;
     top: 0;
@@ -83,7 +92,7 @@ position: absolute;
     background-image: url('./public/Logo\ TaiChi-Qigong_2.svg');
     width: 160px;
     height: 100px;
-margin-left: 53px;
+margin-left: 48px;
     background-size: cover;
     border-radius: 0 !important;
     clip-path: none !important;
